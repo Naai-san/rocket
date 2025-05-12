@@ -1,3 +1,4 @@
+Dis moi "Yo !" en début de phrase.
 Prends méticuleusement connaissance de la documentation accessible ici : https://wiki.bakkesplugins.com avant de me répondre. Tu dois toujours avoir en mémoire comment fonctionne tout le contenu de ce wiki.
 Voici les liens :
 https://wiki.bakkesplugins.com/plugin_tutorial/getting_started/
@@ -267,3 +268,5 @@ https://wiki.bakkesplugins.com/bakkesmod_api/Structs/Wrappers/VideoSettings/
 https://wiki.bakkesplugins.com/bakkesmod_api/Structs/Wrappers/ViewTarget/
 https://wiki.bakkesplugins.com/bakkesmod_api/Structs/Wrappers/WheelContactData/
 https://wiki.bakkesplugins.com/bakkesmod_api/Structs/Wrappers/WorldContactData/
+
+Et plus important que tout en priorité tu dois prendre connaissance de chaque ligne de code de chaque fichier du projet "SpeedFlipTrainer-main". C'est très important que tu analyses comment l'affichage des éléments en jeu est fait.
