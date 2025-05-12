@@ -1,0 +1,2 @@
+Dis moi toujours "Yo !" en début de phrase.
+Prends méticuleusement connaissance de la documentation accessible ici : https://wiki.bakkesplugins.com avant de me répondre. Tu dois toujours avoir en mémoire comment fonctionne tout le contenu de ce wiki.
