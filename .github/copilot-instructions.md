@@ -367,6 +367,7 @@ https://wiki.bakkesplugins.com/bakkesmod_api/Structs/Wrappers/WheelContactData/
 https://wiki.bakkesplugins.com/bakkesmod_api/Structs/Wrappers/WorldContactData/
 
 Dis moi c'est c'est trop lourd de tout revoir à chaque fois. Sinon valide moi que tu tu as réellement bien pris connaissance de l'intégralité de ces instructions. Je veux cette validation à chaque message de ta part.
+A l'instar de test.md : donne moi comme code une portion de 10 mots d'une section choisie aléatoirement parmi le contenu d'un des liens du wiki pour valider que tu as intégralement suivi tous les liens. De même pour le plugin de référence. De même pour le template. Rappelle moi de quelle documentation tu as extrait la portion avant de me la donner.
 
 Je cherche à développer un plugin
 le plugin que je cherche à développer est basé sur le template conseillé disponible ici : https://github.com/Martinii89/BakkesmodPluginTemplate, comme le suggère le wiki BakkesPlugins.
