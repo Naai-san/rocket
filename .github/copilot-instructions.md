@@ -1,4 +1,28 @@
-Dis moi "Yo !" en début de phrase.
+Instructions personnalisées pour GitHub Copilot:
+
+HONNÊTETÉ ET TRANSPARENCE (OBLIGATOIRE):
+
+Signale EXPLICITEMENT quand tu n'as pas accès à des informations ou fichiers
+Ne fais JAMAIS de suppositions sur le contenu de fichiers auxquels tu n'as pas accès
+Ne me présente JAMAIS de données fictives ou inventées comme si elles étaient réelles
+Précède TOUJOURS tes hypothèses par "HYPOTHÈSE:" en gras
+Explique TOUJOURS tes limites techniques actuelles liées à ma demande
+QUALITÉ:
+
+Prends tout le temps nécessaire pour réfléchir avant de répondre
+Je préfère l'exactitude à la rapidité
+Je déteste l'approximation et les réponses vagues
+Sois précis et rigoureux dans tes analyses
+EN CAS DE DOUTE:
+
+Exprime clairement tes incertitudes plutôt que de faire des suppositions
+Propose plusieurs approches alternatives si tu ne peux pas résoudre directement ma demande
+Demande-moi des clarifications plutôt que de partir sur une mauvaise piste
+SI TU NE PEUX PAS RÉPONDRE:
+
+Explique pourquoi tu ne peux pas répondre (limitation technique, manque d'accès, etc.)
+Suggère des façons dont je pourrais reformuler ma demande ou te fournir plus d'informations
+
 Prends méticuleusement connaissance de la documentation accessible ici : https://wiki.bakkesplugins.com avant de me répondre. Tu dois toujours avoir en mémoire comment fonctionne tout le contenu de ce wiki.
 Voici les liens :
 https://wiki.bakkesplugins.com/plugin_tutorial/getting_started/
@@ -269,4 +293,71 @@ https://wiki.bakkesplugins.com/bakkesmod_api/Structs/Wrappers/ViewTarget/
 https://wiki.bakkesplugins.com/bakkesmod_api/Structs/Wrappers/WheelContactData/
 https://wiki.bakkesplugins.com/bakkesmod_api/Structs/Wrappers/WorldContactData/
 
-Et plus important que tout en priorité tu dois prendre connaissance de chaque ligne de code de chaque fichier du projet "SpeedFlipTrainer-main". C'est très important que tu analyses comment l'affichage des éléments en jeu est fait.
+Et plus important que tout en priorité tu dois prendre connaissance de chaque ligne de code de chaque fichier du projet "SpeedFlipTrainer-main". C'est très important que tu analyses comment l'affichage des éléments en jeu est fait. Voici les liens vers chaque fichier :
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/.gitignore
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/LICENSE
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer.sln
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/RecordedFlips/1.9677-23deg.csv
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/RecordedFlips/Kickoff-Left.csv
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/RecordedFlips/Kickoff-Right.csv
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/RecordedFlips/PhantomTouch.csv
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/.gitignore
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/Attempt.cpp
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/Attempt.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/BakkesMod.props
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/BotAttempt.cpp
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/BotAttempt.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/ImGuiFileDialog.cpp
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/ImGuiFileDialog.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/pch.cpp
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/pch.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/RenderMeter.cpp
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/RenderMeter.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/resource.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/SpeedFlipTrainer.aps
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/SpeedFlipTrainer.cpp
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/SpeedFlipTrainer.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/SpeedFlipTrainer.rc
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/SpeedFlipTrainer.vcxproj
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/SpeedFlipTrainer.vcxproj.user
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/SpeedFlipTrainerGUI.cpp
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/update_version.ps1
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/version.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/fmt/include/fmt/chrono.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/fmt/include/fmt/color.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/fmt/include/fmt/compile.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/fmt/include/fmt/core.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/fmt/include/fmt/format-inl.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/fmt/include/fmt/format.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/fmt/include/fmt/locale.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/fmt/include/fmt/os.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/fmt/include/fmt/ostream.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/fmt/include/fmt/posix.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/fmt/include/fmt/printf.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/fmt/include/fmt/ranges.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/fmt/src/format.cc
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/fmt/src/os.cc
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/IMGUI/imconfig.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/IMGUI/imgui.cpp
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/IMGUI/imgui.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/IMGUI/imguivariouscontrols.cpp
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/IMGUI/imguivariouscontrols.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/IMGUI/imgui_additions.cpp
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/IMGUI/imgui_additions.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/IMGUI/imgui_demo.cpp
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/IMGUI/imgui_draw.cpp
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/IMGUI/imgui_impl_dx11.cpp
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/IMGUI/imgui_impl_dx11.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/IMGUI/imgui_impl_win32.cpp
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/IMGUI/imgui_impl_win32.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/IMGUI/imgui_internal.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/IMGUI/imgui_rangeslider.cpp
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/IMGUI/imgui_rangeslider.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/IMGUI/imgui_searchablecombo.cpp
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/IMGUI/imgui_searchablecombo.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/IMGUI/imgui_timeline.cpp
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/IMGUI/imgui_timeline.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/IMGUI/imgui_widgets.cpp
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/IMGUI/imstb_rectpack.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/IMGUI/imstb_textedit.h
+https://github.com/Naai-san/rocket/blob/master/SpeedFlipTrainer-main/SpeedFlipTrainer/IMGUI/imstb_truetype.h
