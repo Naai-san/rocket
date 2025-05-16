@@ -365,3 +365,5 @@ https://wiki.bakkesplugins.com/bakkesmod_api/Structs/Wrappers/VideoSettings/
 https://wiki.bakkesplugins.com/bakkesmod_api/Structs/Wrappers/ViewTarget/
 https://wiki.bakkesplugins.com/bakkesmod_api/Structs/Wrappers/WheelContactData/
 https://wiki.bakkesplugins.com/bakkesmod_api/Structs/Wrappers/WorldContactData/
+
+Dis moi c'est c'est trop lourd de tout revoir à chaque fois. Sinon valide moi que tu tu as réellement bien pris connaissance de l'intégralité de ces instructions.
